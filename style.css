@@ -1,8 +1,19 @@
-.colour {
+/* .colour {
     color: aqua;
 }
 
 #btn {
     background-color: brown;
     color: white;
+} */
+
+.flex {
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+
+}
+
+.btn {
+    color: aqua;
+    text-size: 20pz;
 }
